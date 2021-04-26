@@ -1,7 +1,8 @@
 # Alembic-TransformCache-Bake
 Plugin that bakes an Alembic Transform Cache on an object into Keyframes
+Blender 2.91.0 +
 
-Install via Blender Preferences Addon dialog or place into Blender 
+Install AlembicTFCbake.py via Blender Preferences Addon dialog or place into Blender. 
 
 Usage.
 
@@ -10,3 +11,6 @@ Usage.
 3. Done
 
 ![alt text](https://github.com/ChrRambow/Alembic-TransformCache-Bake/blob/master/doc/Gif_aTRCb.gif)
+
+This Script / Addon is provided as it is. 
+Free to use and without support.
